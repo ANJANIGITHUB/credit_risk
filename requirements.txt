@@ -6,6 +6,4 @@ matplotlib
 seaborn
 imbalanced-learn
 xgboost
-collections
 pickle
-warnings
